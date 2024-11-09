@@ -8,7 +8,8 @@ export function Header() {
         <div className="flex items-center justify-between h-20">
           <a href="#" className="flex items-center">
           // Header Component
-          <img src="https://github.com/protocol113/flitedek-dev/raw/main/img/logo.png" alt="Flitedek Logo" className="h-8" />
+          // Header Component - Logo Image
+<img src="https://raw.githubusercontent.com/protocol113/flitedek-dev/flitedek-dev/img/logo.png" alt="Flitedek Logo" className="h-8" />
           </a>
 
           <nav className="hidden md:flex items-center space-x-8">

@@ -10,7 +10,7 @@ export function Hero() {
       <div
         className="absolute inset-0 z-0"
         style={{
-          backgroundImage: `url(https://github.com/protocol113/flitedek-dev/raw/main/img/BG.jpeg)`,
+          backgroundImage: `url(https://raw.githubusercontent.com/protocol113/flitedek-dev/flitedek-dev/img/BG.jpeg)`,
           backgroundSize: 'contain',
           backgroundPosition: 'bottom',
           filter: 'brightness(0.3)',
